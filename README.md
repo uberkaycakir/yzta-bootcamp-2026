@@ -1,7 +1,7 @@
 # YZTA-BOOTCAMP-2026
 # Takım İsmi
 
-Takım 5
+Takım: 5
 
 ---
 
@@ -9,7 +9,7 @@ Takım 5
 
 ## Takım Elemanları
 
-* xxx: Product Owner
+* Hayrunnisa Yavuz: Product Owner
 * Umut Berkay Çakır: Scrum Master
 * Kübra Mete: Team Member/Developer
 * Dila Abdulhayoğlu : Team Member/Developer
@@ -40,7 +40,20 @@ LingoSwap
 *	İngilizce pratiği yapmak isteyen Türk kullanıcılar (öğrenci, iş hayatına hazırlananlar)
 *	Ücretli özel ders yerine karşılıklı/sosyal öğrenmeyi tercih eden 15-40 yaş arası kullanıcılar
 
+---
+
+# Sprint 1
+
+*Sprint Hedefi: Kullanıcının hesap oluşturup profil bilgilerini (dil, seviye, ilgi alanı) girebildiği ve temel eşleştirme akışının uçtan uca  çalıştığı bir MVP iskeleti ortaya koymak.
+*Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.
+*Daily Scrum: Whatsapp grubu üzerinden görüşmeler sağlanmıştır. Bootcamp adında bir iletişim grubu oluşturuluştur. Ve buradan günlük ilerlemeler paylaşılmaktadır. Toplantılar Google Meet üzerinden yapılmaktadır. 
+
+
+## Sprint Review
+
 
 ## Product Backlog URL
 
 URL: 
+
+
