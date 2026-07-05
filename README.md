@@ -1,6 +1,7 @@
 # YZTA-BOOTCAMP-2026
 
-![Uploading image.png…]()
+<img width="849" height="326" alt="image" src="https://github.com/user-attachments/assets/4ef847b1-ec70-43a0-8992-0c0581497067" />
+
 
 # Takım İsmi
 
