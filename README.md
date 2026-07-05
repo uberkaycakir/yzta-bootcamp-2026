@@ -40,6 +40,10 @@ LingoSwap
 *	İngilizce pratiği yapmak isteyen Türk kullanıcılar (öğrenci, iş hayatına hazırlananlar)
 *	Ücretli özel ders yerine karşılıklı/sosyal öğrenmeyi tercih eden 15-40 yaş arası kullanıcılar
 
+## Product Backlog URL
+
+URL: 
+
 ---
 
 # Sprint 1
@@ -52,8 +56,6 @@ LingoSwap
 ## Sprint Review
 
 
-## Product Backlog URL
 
-URL: 
 
 
