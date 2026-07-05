@@ -80,7 +80,7 @@ URL:
 * Neyi gösterdik: Ana Giriş ve kayıt ekranı, seviye belirleme ekranı, ilgi alanları seçme ekranı, amaç ve hedef belirleme ekranı tasarlandı.
 * Alınan geri bildirim (varsa): Girişte daha fazla kişiselleştirme amaçlı sorular sorulabilir. 
 
-##Sprint 1 Retrospective
+## Sprint 1 Retrospective
 
 * İletişim sıkıntılarının giderilmesi adına Daily Scrum toplantısı için günlük sabit bir saat belirlenmiştir.
 * Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
