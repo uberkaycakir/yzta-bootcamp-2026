@@ -68,7 +68,7 @@ URL:
 * Daily Scrumlar sonucunda görev dağılımları yapılarak, mvp oluşturma aşamasına başlanmıştır.
 * Kişiselleştirme amacıyla giriş kısmında daha çok soru üretilmesi Sprint 2 için planlanmıştır.
 
-* Ürün Durumu (ekran görüntüleri):
+## Ürün Durumu (ekran görüntüleri):
 
 *  <img width="631" height="644" alt="Ekran görüntüsü 2026-07-05 193413" src="https://github.com/user-attachments/assets/0e99e79f-79d8-477d-b6a8-0a76b090e691" />
 
