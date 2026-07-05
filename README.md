@@ -1,4 +1,7 @@
 # YZTA-BOOTCAMP-2026
+
+![Uploading image.png…]()
+
 # Takım İsmi
 
 Takım: 5
@@ -11,8 +14,8 @@ Takım: 5
 
 * Hayrunnisa Yavuz: Product Owner
 * Umut Berkay Çakır: Scrum Master
-* Kübra Mete: Team Member/Developer
-* Dila Abdulhayoğlu : Team Member/Developer
+* Kübra Mete: Developer
+* Dila Abdulhayoğlu : Developer
 
 ## Ürün İsmi
 
@@ -53,7 +56,18 @@ URL:
 *Daily Scrum: Whatsapp grubu üzerinden görüşmeler sağlanmıştır. Bootcamp adında bir iletişim grubu oluşturuluştur. Ve buradan günlük ilerlemeler paylaşılmaktadır. Toplantılar Google Meet üzerinden yapılmaktadır. 
 
 
-## Sprint Review
+## Sprint 1 Review
+
+**Sprint Hedefi: 16 SP
+**Tamamlanan Story'ler:
+
+
+**Ürün Durumu (ekran görüntüleri):**
+[screenshot(s) buraya]
+
+**Demo Notları:**
+- Neyi gösterdik: ...
+- Alınan geri bildirim (varsa): ...
 
 
 
