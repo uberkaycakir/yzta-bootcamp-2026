@@ -46,7 +46,7 @@ LingoSwap
 
 ## Product Backlog URL
 
-URL: 
+URL: https://trello.com/b/XF8Y82xU/lingoswap
 
 ---
 
@@ -67,6 +67,11 @@ URL:
 
 * Daily Scrumlar sonucunda görev dağılımları yapılarak, mvp oluşturma aşamasına başlanmıştır.
 * Kişiselleştirme amacıyla giriş kısmında daha çok soru üretilmesi Sprint 2 için planlanmıştır.
+* Sprint panosu güncellemesi : Sprint panosu ekran görüntüleri:
+  <img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/d4ed6456-9c0b-43df-aeda-1fb498cae12d" />
+
+
+  
 
 ## Ürün Durumu (ekran görüntüleri):
 
