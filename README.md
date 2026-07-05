@@ -54,7 +54,7 @@ URL:
 
 *Sprint Hedefi: Kullanıcının hesap oluşturup profil bilgilerini (dil, seviye, ilgi alanı) girebildiği ve temel eşleştirme akışının uçtan uca  çalıştığı bir MVP iskeleti ortaya koymak.
 *Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.
-*Daily Scrum: Whatsapp grubu üzerinden görüşmeler sağlanmıştır. Bootcamp adında bir iletişim grubu oluşturuluştur. Ve buradan günlük ilerlemeler paylaşılmaktadır. Toplantılar Google Meet üzerinden yapılmaktadır. 
+*Daily Scrum: Whatsapp grubu üzerinden görüşmeler sağlanmıştır. Bootcamp adında bir iletişim grubu oluşturuluştur. Ve buradan günlük ilerlemeler paylaşılmaktadır. Toplantılar Google Meet üzerinden yapılmaktadır. ( Link: https://imgur.com/a/7Pt7BAY )
 
 
 ## Sprint 1 Review
@@ -63,8 +63,13 @@ URL:
 **Tamamlanan Story'ler:
 
 
-**Ürün Durumu (ekran görüntüleri):**
-[screenshot(s) buraya]
+**Ürün Durumu (ekran görüntüleri):
+
+*  <img width="631" height="644" alt="Ekran görüntüsü 2026-07-05 193413" src="https://github.com/user-attachments/assets/0e99e79f-79d8-477d-b6a8-0a76b090e691" />
+
+*  <img width="636" height="649" alt="Ekran görüntüsü 2026-07-05 193443" src="https://github.com/user-attachments/assets/258ab5be-78d7-452b-8a98-85d75be6e1fe" />
+  
+
 
 **Demo Notları:**
 - Neyi gösterdik: ...
