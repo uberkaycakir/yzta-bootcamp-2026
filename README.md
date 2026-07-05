@@ -1,4 +1,4 @@
-# yzta-bootcamp-2026
+# YZTA-BOOTCAMP-2026
 # Takım İsmi
 
 Takım 5
