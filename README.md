@@ -65,7 +65,8 @@ URL:
 
 *  <img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/913641a5-d500-4f89-b770-424e90996015" />
 
-
+* Daily Scrumlar sonucunda görev dağılımları yapılarak, mvp oluşturma aşamasına başlanmıştır.
+* Kişiselleştirme amacıyla giriş kısmında daha çok soru üretilmesi Sprint 2 için planlanmıştır.
 
 ## Ürün Durumu (ekran görüntüleri):
 
@@ -79,7 +80,11 @@ URL:
 * Neyi gösterdik: Ana Giriş ve kayıt ekranı, seviye belirleme ekranı, ilgi alanları seçme ekranı, amaç ve hedef belirleme ekranı tasarlandı.
 * Alınan geri bildirim (varsa): Girişte daha fazla kişiselleştirme amaçlı sorular sorulabilir. 
 
+##Sprint 1 Retrospective
 
-
+* İletişim sıkıntılarının giderilmesi adına Daily Scrum toplantısı için günlük sabit bir saat belirlenmiştir.
+* Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+* Zaman Yönetimi ve plana riyayet edilmesi konusu konuşulmuştur.
+* Sprint 2 çalışmalarında plan ve toplantı disiplini sağlanması önemlidir.
 
 
