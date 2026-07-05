@@ -52,18 +52,22 @@ URL:
 
 # Sprint 1
 
-*Sprint Hedefi: Kullanıcının hesap oluşturup profil bilgilerini (dil, seviye, ilgi alanı) girebildiği ve temel eşleştirme akışının uçtan uca  çalıştığı bir MVP iskeleti ortaya koymak.
-*Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.
-*Daily Scrum: Whatsapp grubu üzerinden görüşmeler sağlanmıştır. Bootcamp adında bir iletişim grubu oluşturuluştur. Ve buradan günlük ilerlemeler paylaşılmaktadır. Toplantılar Google Meet üzerinden yapılmaktadır. ( Link: https://imgur.com/a/7Pt7BAY )
+* Sprint Hedefi: Kullanıcının hesap oluşturup profil bilgilerini (dil, seviye, ilgi alanı) girebildiği ve temel eşleştirme akışının uçtan uca  çalıştığı bir MVP iskeleti ortaya koymak.
+* Sprint içi puan değerlendirmesi 16 olarak belirlenmiştir.
+* Daily Scrum: Whatsapp grubu üzerinden görüşmeler sağlanmıştır. Bootcamp adında bir iletişim grubu oluşturuluştur. Ve buradan günlük ilerlemeler paylaşılmaktadır. Toplantılar Google Meet üzerinden yapılmaktadır. ( Link: https://imgur.com/a/7Pt7BAY )
 
 
 ## Sprint 1 Review
 
-**Sprint Hedefi: 16 SP
-**Tamamlanan Story'ler:
+* Sprint Hedefi: 16 SP
+
+* Tamamlanan Story'ler: 
+
+*  <img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/913641a5-d500-4f89-b770-424e90996015" />
 
 
-**Ürün Durumu (ekran görüntüleri):
+
+## Ürün Durumu (ekran görüntüleri):
 
 *  <img width="631" height="644" alt="Ekran görüntüsü 2026-07-05 193413" src="https://github.com/user-attachments/assets/0e99e79f-79d8-477d-b6a8-0a76b090e691" />
 
@@ -71,9 +75,9 @@ URL:
   
 
 
-**Demo Notları:**
-- Neyi gösterdik: Ana Giriş ve kayıt ekranı, seviye belirleme ekranı, ilgi alanları seçme ekranı, amaç ve hedef belirleme ekranı tasarlandı.
-- Alınan geri bildirim (varsa): Girişte daha fazla kişiselleştirme amaçlı sorular sorulabilir.
+## Demo Notları:
+* Neyi gösterdik: Ana Giriş ve kayıt ekranı, seviye belirleme ekranı, ilgi alanları seçme ekranı, amaç ve hedef belirleme ekranı tasarlandı.
+* Alınan geri bildirim (varsa): Girişte daha fazla kişiselleştirme amaçlı sorular sorulabilir. 
 
 
 
