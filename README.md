@@ -63,7 +63,7 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 
 * Tamamlanan Story'ler: 
 
-*  <img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/913641a5-d500-4f89-b770-424e90996015" />
+<img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/913641a5-d500-4f89-b770-424e90996015" />
 
 * Daily Scrumlar sonucunda görev dağılımları yapılarak, mvp oluşturma aşamasına başlanmıştır.
 * Kişiselleştirme amacıyla giriş kısmında daha çok soru üretilmesi Sprint 2 için planlanmıştır.
@@ -75,9 +75,9 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 
 ## Ürün Durumu (ekran görüntüleri):
 
-*  <img width="631" height="644" alt="Ekran görüntüsü 2026-07-05 193413" src="https://github.com/user-attachments/assets/0e99e79f-79d8-477d-b6a8-0a76b090e691" />
+<img width="631" height="644" alt="Ekran görüntüsü 2026-07-05 193413" src="https://github.com/user-attachments/assets/0e99e79f-79d8-477d-b6a8-0a76b090e691" />
 
-*  <img width="636" height="649" alt="Ekran görüntüsü 2026-07-05 193443" src="https://github.com/user-attachments/assets/258ab5be-78d7-452b-8a98-85d75be6e1fe" />
+<img width="636" height="649" alt="Ekran görüntüsü 2026-07-05 193443" src="https://github.com/user-attachments/assets/258ab5be-78d7-452b-8a98-85d75be6e1fe" />
   
 
 
@@ -124,10 +124,10 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 * Alınan Geri Bildirim: Sprint 1'deki "Girişte daha fazla kişiselleştirme" geri bildirimi bu sprintteki veritabanı modellemesine (İlgi Alanları ve Seviye) başarıyla yansıtıldı. AI Agent'ın konuşmaya müdahale sıklığı için kullanıcıya bir ayar seçeneği sunulması sonraki aşamalar için önerildi.
 
 ## Sprint Review
-*Daily Scrumlar sonucunda görev dağılımları plana uygun şekilde yapılarak backend ve frontend entegrasyon süreçleri uçtan uca tamamlanmıştır. Sprint 1'de planlanan veri tabanındaki kişiselleştirme alanları (ilgi alanı, dil seviyesi) başarıyla sisteme yedirilmiştir. Hedeflenen 24 SP'lik iş listesinin tamamı "Done" sütununa çekilmiştir.
+* Daily Scrumlar sonucunda görev dağılımları plana uygun şekilde yapılarak backend ve frontend entegrasyon süreçleri uçtan uca tamamlanmıştır. Sprint 1'de planlanan veri tabanındaki kişiselleştirme alanları (ilgi alanı, dil seviyesi) başarıyla sisteme yedirilmiştir. Hedeflenen 24 SP'lik iş listesinin tamamı "Done" sütununa çekilmiştir.
 
 ## Sprint Retrospective
-*Toplantı ve Zaman Disiplini: Sprint 1'de karar verilen günlük sabit saatli Daily Scrum düzenine bu sprintte tam sadakatle uyuldu. Bu durum ekip içi senkronizasyonu maksimuma çıkardı.
+* Toplantı ve Zaman Disiplini: Sprint 1'de karar verilen günlük sabit saatli Daily Scrum düzenine bu sprintte tam sadakatle uyuldu. Bu durum ekip içi senkronizasyonu maksimuma çıkardı.
 
 * Takım Aktivitesi: Tüm takım üyeleri backend, frontend ve AI entegrasyon süreçlerinde aktif roller üstlendi; görev dağılımları plana uygun şekilde zamanında tamamlandı.
 
