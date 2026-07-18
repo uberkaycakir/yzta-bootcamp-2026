@@ -131,8 +131,8 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 * Yayınlamak için Vercel tercih edilmesi kararlaştırılmıştır.
 
 ## Sprint Retrospective
-* Toplantı ve Zaman Disiplini: Sprint 1'de karar verilen günlük sabit saatli Daily Scrum düzenine bu sprintte tam sadakatle uyuldu. Bu durum ekip içi senkronizasyonu maksimuma çıkardı.
+* Toplantı ve Zaman Disiplini: Sprint 1'de karar verilen günlük sabit saatli Daily Scrum düzenine bu sprintte uyum konusu tam sağlanmadı fakat düzensiz saatlerde de olsa daily scrum taoplantıları gerçekleştirildi.
 
-* Takım Aktivitesi: Tüm takım üyeleri backend, frontend ve AI entegrasyon süreçlerinde aktif roller üstlendi; görev dağılımları plana uygun şekilde zamanında tamamlandı.
-
+* Takım Aktivitesi: Bazı takım üyeleri ekibe katılım göstermedi, fakat var olan kişiler takıma katkı sağladı.
+  
 * Gelecek Sprint İçin Aksiyon: Backend ve frontend entegrasyonu başarıyla tamamlandığı için, sonraki süreçte "Konuş ya da Kaybet" oyun modunun mekaniklerine ve daha derinlemesine gelişim raporu/ilerleme takibi (analytics) ekranlarına odaklanılması gerektiği konuşuldu.
