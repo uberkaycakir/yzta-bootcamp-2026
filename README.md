@@ -108,7 +108,7 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 
 
 ## Daily Scrum
-İletişim Kanalı: WhatsApp grubu (Bootcamp iletişim grubu) üzerinden günlük ilerlemeler paylaşılmaya devam edilmiş, planlama ve değerlendirme toplantıları haftalık olarak Google Meet üzerinden gerçekleştirilmiştir. Günlük sabit saat kuralına bu sprintte tam uyum sağlanmıştır. (Örnek: https://imgur.com/a/ssfuKGY)
+İletişim Kanalı: WhatsApp grubu (Bootcamp iletişim grubu) üzerinden günlük ilerlemeler paylaşılmaya devam edilmiş, planlama ve değerlendirme toplantıları haftalık olarak Google Meet üzerinden gerçekleştirilmiştir. (Örnek: https://imgur.com/a/ssfuKGY)
 
 ## Ürün Durumu (ekran görüntüleri)
 
