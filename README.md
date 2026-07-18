@@ -57,6 +57,7 @@ Alt segmentler:
 
 İhtiyaç ve motivasyon: Günlük yaşamda kendini ifade edebilme, iş/okul ortamında iletişim kurabilme; çoğu zaman kurumsal Türkçe kurslarına (TÖMER vb.) erişimin sınırlı veya maliyetli olması nedeniyle sosyal öğrenmeye açıklar.
 
+
 Segment 2: İngilizce Pratiği Yapmak İsteyen Türk Kullanıcılar
 
 Büyüklük ve bağlam:
@@ -74,6 +75,7 @@ Alt segmentler:
 
 * İhtiyaç ve motivasyon: Okulda öğrenilen İngilizcenin konuşma pratiğine yeterince dönüşmemesi; gerçek native/akıcı konuşmacılarla pratik yapma isteği; ücretli özel ders yerine daha uygun maliyetli/karşılıklı bir yöntem arayışı.
 
+
 Ortak Özellikler (Her İki Segment İçin)
 
 * Yaş aralığı: 15-40 yaş arası (README'de belirtilen hedef kitle ile uyumlu)
@@ -84,12 +86,58 @@ Ortak Özellikler (Her İki Segment İçin)
 
 Persona Taslakları
 
-Bu araştırma, iki segment için detaylı kullanıcı personaları oluşturmak için temel sağlıyor:
+* Bu araştırma, iki segment için detaylı kullanıcı personaları oluşturmak için temel sağlıyor:
 
 * "Uluslararası Öğrenci" personası — Türkiye'de okuyan, Türkçe pratiği arayan bir yabancı öğrenci
 * "Kariyer Odaklı Genç Profesyonel" personası — İş hayatı için İngilizcesini geliştirmek isteyen bir Türk kullanıcı
 * Persona detaylandırması yapılacaktır.
 
+
+## Rakip Analizi
+
+Genel Pazar Görünümü
+
+* Dil değişimi (language exchange) kategorisi, ücretli özel ders platformlarından (italki, Preply) sosyal/chat tabanlı topluluk uygulamalarına (HelloTalk, Speaky) kadar geniş bir yelpazeye yayılıyor. Pazardaki uygulamalar temel olarak iki eksende ayrışıyor: konuşma pratiği ağırlıklı (Tandem) ile metin/sosyal medya ağırlıklı (HelloTalk, Speaky) modeller. Hiçbiri, LingoSwap'ın önerdiği "karşılıklı dönüşümlü konuşma + görüşme sonrası AI geri bildirimi + oyunlaştırılmış görev modu" üçlüsünü tek bir üründe birleştirmiyor.
+
+Doğrudan Rakipler
+
+Tandem
+* Konumlandırma: Konuşma odaklı; video görüşme, sesli not ve tutor pazar yeri içeriyor. Rakiplere kıyasla daha kaliteli ve filtre odaklı bir eşleştirme sunuyor.
+* Zayıf yönü: Kullanıcı havuzu, özellikle az yaygın dil çiftlerinde HelloTalk'a göre daha sınırlı kalıyor.
+* İş modeli: Temel eşleşme ücretsiz; gelişmiş özellikler Tandem Pro (ücretli) katmanının arkasında.
+* LingoSwap'a göre fark: Tandem'de kişiye özel AI geri bildirimi (telaffuz/gramer/akıcılık skorlaması) yok; ücretli tutor'a yönlendirme var. LingoSwap bu ihtiyacı * ücretsiz ve AI destekli karşılar.
+
+
+HelloTalk
+* Konumlandırma: Sesten metne çevirme, çeviri, dil bilgisi düzeltme, telaffuz değerlendirmesi ve AI destekli dil bilgisi açıklamaları gibi entegre araçlarla metin tabanlı öğrenmeyi merkeze koyuyor. "Moments" adlı sosyal medya benzeri akışı, öğrenmeyi sosyalleştiriyor.
+* Zayıf yönü: Konuşma/telaffuz değerlendirme modülü kelime düzeyinde güven eşiklerine dayanıyor ve fonetik ayrıntıdan yoksun — yani telaffuz geri bildirimi yüzeysel kalıyor.
+* İş modeli: Ücretsiz katman tek hedef dille sınırlı; VIP (~9,99 USD/ay) sınırsız dil, reklamsız kullanım ve gelişmiş çeviri sunuyor.
+* LingoSwap'a göre fark: HelloTalk'ta oyunlaştırılmış bir "görev/yarışma" modu yok; geri bildirim görüşme sonrası kapsamlı bir rapor değil, anlık ve yüzeysel düzeltmeler şeklinde.
+
+
+Speaky
+* Konumlandırma: 110'dan fazla dil desteğiyle geniş ve güçlü bir ücretsiz katman sunuyor; metin tabanlı, yavaş tempolu değişim için uygun bir ortam sağlıyor.
+* Zayıf yönü: Konuşmayı yalnızca bir transkripsiyon aracı olarak ele alıyor; ses özellikleri sonradan eklenmiş durumda ve öncelik metin etkileşiminde.
+* LingoSwap'a göre fark: Konuşma pratiğini ve AI destekli sesli geri bildirimi merkeze koymuyor; LingoSwap tam olarak bu boşluğu dolduruyor.
+
+
+italki / Preply (Dolaylı Rakip — Ücretli Tutor Platformları)
+* Konumlandırma: Yapılandırılmış, profesyonel bire bir ders modeli; ciddi ve hedef odaklı öğrenciler için güçlü seçenek.
+* Zayıf yönü: Karşılıklı değişim değil, klasik ücretli ders modeli; maliyet birikimi kullanım sıklığına bağlı olarak yükseliyor, kalite tutordan tutora değişebiliyor.
+* LingoSwap'a göre fark: LingoSwap'ın "ders ücreti ödemek yerine ana dilini paylaşarak öğren" değer önerisi, doğrudan bu platformların maliyet dezavantajına karşı konumlanıyor.
+
+
+Karşılaştırma Tablosu
+
+<img width="863" height="212" alt="Ekran görüntüsü 2026-07-19 004244" src="https://github.com/user-attachments/assets/99f144b9-cfbb-454e-a0b4-ad51c1625953" />
+
+
+Pazar Boşluğu ve Fırsat
+* Rakip analizinden çıkan temel sonuç: pazardaki uygulamalar ya sosyal/metin ağırlıklı ve yüzeysel geri bildirimli (HelloTalk, Speaky) ya da ücretli ve insan-tutor bağımlı (Tandem Pro, italki, Preply). LingoSwap'ın konumlandığı boşluk şu üç unsurun birleşimidir:
+
+* Karşılıklı ve ücretsiz dil değişimi (ders ücreti yerine paylaşım)
+* Görüşme sonrası detaylı, çok boyutlu AI geri bildirimi (telaffuz + gramer + akıcılık + kelime kullanımı)
+* Sürdürülebilirliği artıran oyunlaştırılmış görev modu
 
 ## Product Backlog URL
 
