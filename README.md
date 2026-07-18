@@ -102,7 +102,7 @@ Genel Pazar Görünümü
 
 * Dil değişimi (language exchange) kategorisi, ücretli özel ders platformlarından (italki, Preply) sosyal/chat tabanlı topluluk uygulamalarına (HelloTalk, Speaky) kadar geniş bir yelpazeye yayılıyor. Pazardaki uygulamalar temel olarak iki eksende ayrışıyor: konuşma pratiği ağırlıklı (Tandem) ile metin/sosyal medya ağırlıklı (HelloTalk, Speaky) modeller. Hiçbiri, LingoSwap'ın önerdiği "karşılıklı dönüşümlü konuşma + görüşme sonrası AI geri bildirimi + oyunlaştırılmış görev modu" üçlüsünü tek bir üründe birleştirmiyor.
 
-Doğrudan Rakipler
+Doğrudan Rakipler:
 
 Tandem
 * Konumlandırma: Konuşma odaklı; video görüşme, sesli not ve tutor pazar yeri içeriyor. Rakiplere kıyasla daha kaliteli ve filtre odaklı bir eşleştirme sunuyor.
