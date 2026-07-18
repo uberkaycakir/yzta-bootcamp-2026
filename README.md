@@ -139,6 +139,64 @@ Pazar Boşluğu ve Fırsat
 * Görüşme sonrası detaylı, çok boyutlu AI geri bildirimi (telaffuz + gramer + akıcılık + kelime kullanımı)
 * Sürdürülebilirliği artıran oyunlaştırılmış görev modu
 
+## AI Modeli Araştırması
+
+İhtiyaç Tanımı
+
+* LingoSwap'ın AI katmanının görüşme sonrası şu dört boyutta geri bildirim üretmesi gerekiyor: telaffuz doğruluğu, dil bilgisi (gramer), akıcılık ve kelime kullanımı. Bu, tek bir modelin değil, muhtemelen birbirini tamamlayan birkaç bileşenin (konuşma tanıma + telaffuz skorlama + dil modeli tabanlı yorumlama) bir araya gelmesini gerektiriyor.
+
+
+Telaffuz ve Akıcılık Değerlendirmesi İçin Seçenekler:
+
+Azure AI Speech — Pronunciation Assessment
+* Konuşulan sesin doğruluğunu ve akıcılığını değerlendirip geri bildirim veriyor; dil bilgisi için sözcüksel doğruluk, gramer doğruluğu ve cümle yapısı çeşitliliğini, kelime kullanımı için ise sözcüklerin bağlam içindeki uygunluğunu ve karmaşıklık düzeyini ölçüyor.
+* Fonem, hece, kelime ve tam metin düzeyinde ayrıntılı skor (IPA fonem alfabesiyle) üretebiliyor; hem referans metinli (scripted/okuma pratiği) hem serbest konuşma (unscripted) modunda çalışabiliyor.
+* Dil desteği: 33 dilde destek sunuyor; sürekli akış (streaming) modunu destekliyor, bu da canlı görüşme sırasında değerlendirme için uygun.
+* Fiyatlandırma: Standart Speech-to-Text ile aynı temel ücretlendirmeye tabi; gerçek zamanlı kullanımda telaffuz değerlendirmesi gibi gelişmiş eklentiler saatte ek ücrete tabi olabiliyor (toplu/batch işlemede bu ek ücret dahil).
+* Bilinen sınırlama: Farklı SDK'lar (ör. Python vs TypeScript) arasında bazı geliştiriciler aynı ses dosyası için tutarsız skorlar bildirmiş; entegrasyon öncesi kendi test setiyle doğrulama yapılması önerilir.
+
+
+Speechace
+* Konuşma tanıma üzerinden telaffuz ve akıcılık skorlaması sağlayan, özellikle dil öğrenme uygulamaları için tasarlanmış bir API. Azure'a göre daha niş ama dil öğrenme senaryosuna özel optimize edilmiş bir alternatif olarak değerlendirilebilir.
+
+
+OpenAI Whisper (Speech-to-Text katmanı olarak)
+* Konuşma tanıma tarafında piyasadaki en uygun maliyetli seçeneklerden biri; 2026 başı itibarıyla dakika başına önemli ölçüde düşük maliyetli.
+* Sınırlama: Kendi başına telaffuz/fonem düzeyinde skor üretmiyor — yalnızca transkripsiyon sağlıyor. Telaffuz değerlendirmesi için ayrı bir katmana (Azure)
+* Pronunciation Assessment veya özel bir model) ihtiyaç duyuyor; gerçek zamanlı akış desteği yok ve dosya boyutu sınırlaması var.
+* Kullanım senaryosu: Whisper + ayrı bir LLM analiz katmanı kombinasyonu, Azure'a kıyasla daha esnek ama fonem düzeyinde nesnel skorlama için ek geliştirme gerektiriyor.
+
+
+Dil Bilgisi (Gramer) Kontrolü İçin Seçenekler
+
+LanguageTool API
+* 25'ten fazla dilde gramer, stil ve imla kontrolü sunan, açık kaynaklı ve nispeten uygun maliyetli bir servis.
+* Kritik sınırlama: Türkçe desteği bulunmuyor. LingoSwap'ın iki dilli (Türkçe ↔ İngilizce) yapısı düşünüldüğünde, bu tek başına yeterli bir çözüm değil — yalnızca * İngilizce tarafı için değerlendirilebilir, Türkçe geri bildirim için ayrı bir çözüm (ör. LLM tabanlı analiz) gerekiyor.
+
+
+LLM Tabanlı Yaklaşım (GPT / Claude gibi genel amaçlı modeller)
+* Konuşmadan elde edilen transkript, bir dil modeline (ör. GPT veya Claude API'si) verilerek dil bilgisi hataları, cümle çeşitliliği ve kelime kullanımı üzerine kişiselleştirilmiş, doğal dilde geri bildirim üretilebilir.
+* Avantajı: Hem Türkçe hem İngilizce için (ayrı prompt'larla) çalışabiliyor, LanguageTool'un aksine dil kısıtlaması yok; geri bildirimi öğrencinin seviyesine göre uyarlanabilir hale getirmek mümkün.
+* Dezavantajı: Fonem/ses düzeyinde nesnel bir skor üretmiyor — yalnızca metin (transkript) üzerinden çalışıyor, bu yüzden telaffuz değerlendirmesi için mutlaka ayrı bir konuşma-analiz katmanıyla (Azure/Speechace) birlikte kullanılması gerekiyor.
+
+
+Önerilen Mimari Yaklaşım (Değerlendirme İçin)
+
+
+Araştırma, tek bir "her şeyi yapan" modelin bulunmadığını gösteriyor. Olası bir kombinasyon:
+
+* Konuşma → Metin: Whisper (maliyet avantajı) veya Azure STT
+* Telaffuz/Akıcılık Skorlama: Azure Pronunciation Assessment (fonem düzeyinde, çoklu dil desteği en geniş seçenek)
+* Gramer/Kelime Kullanımı Geri Bildirimi: LLM tabanlı analiz (Türkçe desteği zorunlu olduğu için LanguageTool yerine)
+
+
+Karar Verirken Değerlendirilecek Kriterler
+
+* Dil desteği: Türkçe + İngilizce ikisi de zorunlu (LanguageTool gibi bazı araçlar bu şartı karşılamıyor)
+* Maliyet: Kullanıcı başına/dakika başına maliyetin MVP bütçesiyle uyumu
+* Gerçek zamanlı mı, görüşme sonrası mı: LingoSwap'ın akışı görüşme sonrası rapor ürettiği için batch/asenkron işleme yeterli olabilir, bu da maliyeti düşürebilir
+* Entegrasyon karmaşıklığı: SDK kalitesi, dökümantasyon, tutarlılık (Azure'da bildirilen SDK'lar arası skor tutarsızlığı gibi riskler test edilmeli)
+
 ## Product Backlog URL
 
 URL: https://trello.com/b/XF8Y82xU/lingoswap
