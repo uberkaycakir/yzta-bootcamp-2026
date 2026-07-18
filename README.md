@@ -108,7 +108,13 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 ## Daily Scrum
 İletişim Kanalı: WhatsApp grubu (Bootcamp iletişim grubu) üzerinden günlük ilerlemeler paylaşılmaya devam edilmiş, planlama ve değerlendirme toplantıları haftalık olarak Google Meet üzerinden gerçekleştirilmiştir. Günlük sabit saat kuralına bu sprintte tam uyum sağlanmıştır. (Örnek: https://imgur.com/a/ssfuKGY)
 
-##Ürün Durumu (ekran görüntüleri)
+## Ürün Durumu (ekran görüntüleri)
+
+<img width="708" height="564" alt="image" src="https://github.com/user-attachments/assets/280029c3-2ee3-4aa7-987b-6f99db33e282" />
+
+<img width="713" height="570" alt="image" src="https://github.com/user-attachments/assets/7b6d8cab-1ec9-4d1c-bdc8-18b6c8a67b9b" />
+
+
 
 ## Sprint Panosu Güncellemesi (backlog)
 
