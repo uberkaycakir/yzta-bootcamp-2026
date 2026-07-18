@@ -58,6 +58,7 @@ Alt segmentler:
 İhtiyaç ve motivasyon: Günlük yaşamda kendini ifade edebilme, iş/okul ortamında iletişim kurabilme; çoğu zaman kurumsal Türkçe kurslarına (TÖMER vb.) erişimin sınırlı veya maliyetli olması nedeniyle sosyal öğrenmeye açıklar.
 
 
+
 Segment 2: İngilizce Pratiği Yapmak İsteyen Türk Kullanıcılar
 
 Büyüklük ve bağlam:
@@ -76,12 +77,14 @@ Alt segmentler:
 * İhtiyaç ve motivasyon: Okulda öğrenilen İngilizcenin konuşma pratiğine yeterince dönüşmemesi; gerçek native/akıcı konuşmacılarla pratik yapma isteği; ücretli özel ders yerine daha uygun maliyetli/karşılıklı bir yöntem arayışı.
 
 
+
 Ortak Özellikler (Her İki Segment İçin)
 
 * Yaş aralığı: 15-40 yaş arası (README'de belirtilen hedef kitle ile uyumlu)
 * Ortak motivasyon: Ücretli özel ders yerine karşılıklı/sosyal öğrenmeyi tercih etme
 * Ortak davranış: Mobil-first kullanım eğilimi, sosyal medya ve dijital içerik tüketimine yatkınlık (özellikle Z kuşağı)
 * Ortak ihtiyaç: Gerçek konuşma pratiği + yapıcı, somut geri bildirim — sadece "sohbet etmek" değil, ölçülebilir gelişim görmek
+
 
 
 Persona Taslakları
