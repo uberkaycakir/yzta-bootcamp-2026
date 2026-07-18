@@ -103,7 +103,9 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 * Sprint İçi Puan Değerlendirmesi: 24 SP (Görevlerin kapsamı backend ve AI ağırlıklı olduğu için puan artırılmıştır.)
 
 ## Tamamlanan Storyler Tablosu:
-<img width="1185" height="367" alt="image" src="https://github.com/user-attachments/assets/f7c9ff10-e12c-4da1-8015-a261fb578045" />
+<img width="1267" height="380" alt="image" src="https://github.com/user-attachments/assets/dbb18b9e-c352-4058-b005-7dfd123d75cd" />
+
+
 
 ## Daily Scrum
 İletişim Kanalı: WhatsApp grubu (Bootcamp iletişim grubu) üzerinden günlük ilerlemeler paylaşılmaya devam edilmiş, planlama ve değerlendirme toplantıları haftalık olarak Google Meet üzerinden gerçekleştirilmiştir. Günlük sabit saat kuralına bu sprintte tam uyum sağlanmıştır. (Örnek: https://imgur.com/a/ssfuKGY)
