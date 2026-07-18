@@ -38,7 +38,7 @@ LingoSwap
 
 
 
-## Hedef Kitle
+# Hedef Kitle
 
 Segment 1: Türkçe Öğrenmek İsteyen Yabancılar
 
@@ -96,7 +96,7 @@ Persona Taslakları
 * Persona detaylandırması yapılacaktır.
 
 
-## Rakip Analizi
+# Rakip Analizi
 
 Genel Pazar Görünümü
 
@@ -130,20 +130,20 @@ italki / Preply (Dolaylı Rakip — Ücretli Tutor Platformları)
 * LingoSwap'a göre fark: LingoSwap'ın "ders ücreti ödemek yerine ana dilini paylaşarak öğren" değer önerisi, doğrudan bu platformların maliyet dezavantajına karşı konumlanıyor.
 
 
-# Karşılaştırma Tablosu
+## Karşılaştırma Tablosu
 
 <img width="863" height="212" alt="Ekran görüntüsü 2026-07-19 004244" src="https://github.com/user-attachments/assets/99f144b9-cfbb-454e-a0b4-ad51c1625953" />
 
 
 
-# Pazar Boşluğu ve Fırsat
+## Pazar Boşluğu ve Fırsat
 * Rakip analizinden çıkan temel sonuç: pazardaki uygulamalar ya sosyal/metin ağırlıklı ve yüzeysel geri bildirimli (HelloTalk, Speaky) ya da ücretli ve insan-tutor bağımlı (Tandem Pro, italki, Preply). LingoSwap'ın konumlandığı boşluk şu üç unsurun birleşimidir:
 
 * Karşılıklı ve ücretsiz dil değişimi (ders ücreti yerine paylaşım)
 * Görüşme sonrası detaylı, çok boyutlu AI geri bildirimi (telaffuz + gramer + akıcılık + kelime kullanımı)
 * Sürdürülebilirliği artıran oyunlaştırılmış görev modu
 
-## AI Modeli Araştırması
+# AI Modeli Araştırması
 
 İhtiyaç Tanımı
 
