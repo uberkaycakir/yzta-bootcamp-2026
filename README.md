@@ -127,6 +127,8 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 
 ## Sprint Review
 * Daily Scrumlar sonucunda görev dağılımları plana uygun şekilde yapılarak backend ve frontend entegrasyon süreçleri uçtan uca tamamlanmıştır. Sprint 1'de planlanan veri tabanındaki kişiselleştirme alanları (ilgi alanı, dil seviyesi) başarıyla sisteme yedirilmiştir. Hedeflenen 24 SP'lik iş listesinin tamamı "Done" sütununa çekilmiştir.
+* Arayüz değiştirilerek user friendly renkler ve tasarımlar yapılmasına karar verilmiştir.
+* Yayınlamak için Vercel tercih edilmesi kararlaştırılmıştır.
 
 ## Sprint Retrospective
 * Toplantı ve Zaman Disiplini: Sprint 1'de karar verilen günlük sabit saatli Daily Scrum düzenine bu sprintte tam sadakatle uyuldu. Bu durum ekip içi senkronizasyonu maksimuma çıkardı.
