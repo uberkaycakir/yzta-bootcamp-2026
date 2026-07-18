@@ -40,9 +40,56 @@ LingoSwap
 
 ## Hedef Kitle
 
-* Türkçe öğrenmek isteyen yabancı bireyler (öğrenci, göçmen, Türkiye'de yaşayan/çalışan yabancılar)
-*	İngilizce pratiği yapmak isteyen Türk kullanıcılar (öğrenci, iş hayatına hazırlananlar)
-*	Ücretli özel ders yerine karşılıklı/sosyal öğrenmeyi tercih eden 15-40 yaş arası kullanıcılar
+Segment 1: Türkçe Öğrenmek İsteyen Yabancılar
+
+Büyüklük ve bağlam:
+
+* Türkiye, 160'tan fazla farklı ülkeden yükseköğretimde okuyan uluslararası öğrenci sayısı bakımından dünyada ilk 10 ülke arasında yer alıyor; 2024 itibarıyla bu sayı 338 bin civarında.
+* Bunun yanında ilk ve orta öğretimde okuyan yabancı uyruklu öğrenci sayısı 1 milyonu aşıyor; bu öğrencilerin büyük çoğunluğu Suriye, Irak, Afganistan, İran gibi ülkelerden geliyor.
+* Yabancı öğrencilerin yaklaşık %95'i eğitim masraflarını kendi imkânlarıyla karşılıyor — bu da ücretli özel ders yerine ücretsiz/düşük maliyetli alternatiflere olan eğilimi güçlendiren bir gösterge.
+
+
+Alt segmentler:
+
+* Türkiye'de yükseköğrenim gören uluslararası öğrenciler (günlük yaşam ve akademik entegrasyon için Türkçe ihtiyacı)
+* Türkiye'de çalışan/yaşayan yabancı profesyoneller ve göçmenler (iş ve sosyal entegrasyon ihtiyacı)
+* Türkiye'de uzun süredir ikamet eden ama Türkçesini geliştirmek isteyen yabancı uyruklular
+
+İhtiyaç ve motivasyon: Günlük yaşamda kendini ifade edebilme, iş/okul ortamında iletişim kurabilme; çoğu zaman kurumsal Türkçe kurslarına (TÖMER vb.) erişimin sınırlı veya maliyetli olması nedeniyle sosyal öğrenmeye açıklar.
+
+Segment 2: İngilizce Pratiği Yapmak İsteyen Türk Kullanıcılar
+
+Büyüklük ve bağlam:
+
+* Türkiye'nin yabancı dil yeterlilik sıralamalarında görece geride konumlanması, İngilizce konuşma pratiğine olan talebi artıran bir faktör.
+* Buna karşın Türk öğrencilerin yurt dışında dil eğitimine ilgisi büyüyor: 2024'te İngiltere'deki özel dil okullarında Türkiye, en büyük 3. pazar konumuna yükseldi ve öğrenci sayısında en hızlı büyüyen 2. ülke oldu — bu da İngilizce öğrenmeye/pratik yapmaya yönelik güçlü ve büyüyen bir talebe işaret ediyor.
+* Dijital İngilizce öğrenme pazarında akademik öğrenenler (öğrenciler, üniversiteler) en büyük segmenti oluşturuyor; Z kuşağı, mesleki gelişim ve dijital/mobil içerik tüketim alışkanlıkları nedeniyle bu pazarı özellikle yönlendiren demografik grup olarak öne çıkıyor.
+
+
+Alt segmentler:
+
+* Üniversite öğrencileri (akademik ve kariyer hazırlığı için İngilizce pratiği)
+* İş hayatına hazırlanan/çalışan genç profesyoneller (kariyer ve uluslararası fırsatlar için akıcılık ihtiyacı)
+* Konuşma pratiğine odaklanmak isteyen, klasik kurs/kitap yönteminden çok konuşarak öğrenmeyi tercih eden bireyler
+
+* İhtiyaç ve motivasyon: Okulda öğrenilen İngilizcenin konuşma pratiğine yeterince dönüşmemesi; gerçek native/akıcı konuşmacılarla pratik yapma isteği; ücretli özel ders yerine daha uygun maliyetli/karşılıklı bir yöntem arayışı.
+
+Ortak Özellikler (Her İki Segment İçin)
+
+* Yaş aralığı: 15-40 yaş arası (README'de belirtilen hedef kitle ile uyumlu)
+* Ortak motivasyon: Ücretli özel ders yerine karşılıklı/sosyal öğrenmeyi tercih etme
+* Ortak davranış: Mobil-first kullanım eğilimi, sosyal medya ve dijital içerik tüketimine yatkınlık (özellikle Z kuşağı)
+* Ortak ihtiyaç: Gerçek konuşma pratiği + yapıcı, somut geri bildirim — sadece "sohbet etmek" değil, ölçülebilir gelişim görmek
+
+
+Persona Taslakları
+
+Bu araştırma, iki segment için detaylı kullanıcı personaları oluşturmak için temel sağlıyor:
+
+* "Uluslararası Öğrenci" personası — Türkiye'de okuyan, Türkçe pratiği arayan bir yabancı öğrenci
+* "Kariyer Odaklı Genç Profesyonel" personası — İş hayatı için İngilizcesini geliştirmek isteyen bir Türk kullanıcı
+* Persona detaylandırması yapılacaktır.
+
 
 ## Product Backlog URL
 
