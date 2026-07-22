@@ -225,7 +225,8 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 * Daily Scrumlar sonucunda görev dağılımları yapılarak, mvp oluşturma aşamasına başlanmıştır.
 * Kişiselleştirme amacıyla giriş kısmında daha çok soru üretilmesi Sprint 2 için planlanmıştır.
 * Sprint panosu güncellemesi : Sprint panosu ekran görüntüleri:
-  <img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/d4ed6456-9c0b-43df-aeda-1fb498cae12d" />
+ <img width="1361" height="591" alt="image" src="https://github.com/user-attachments/assets/b195f47b-fe54-427a-b213-4add7443568c" />
+
 
 
   
@@ -276,6 +277,9 @@ URL: https://trello.com/b/XF8Y82xU/lingoswap
 
 
 ## Sprint Panosu Güncellemesi (backlog)
+<img width="1365" height="593" alt="image" src="https://github.com/user-attachments/assets/b561c897-2e97-4bc8-a5f9-f7476916b4ed" />
+<img width="1365" height="601" alt="image" src="https://github.com/user-attachments/assets/dbf3dab8-c69f-44b1-832d-3a35a3a1489c" />
+
 
 ## Demo Notları:
 * Neyi Gösterdik: Kullanıcıların kayıt olup giriş yapabildiği çalışan backend altyapısını, ilgi alanları ve dillere göre çalışan canlı eşleştirme (Swap) sistemini, gerçek zamanlı chat ekranını ve konuşma esnasında hataları düzelten hafızalı AI Agent baloncuklarını canlı olarak sunduk.
